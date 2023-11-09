@@ -1,2 +1,2 @@
-# codsoft_pythontask1
+# codsoft_pythontask2
 simple calculator
